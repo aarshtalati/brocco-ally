@@ -10,7 +10,8 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["people"]
+            // "args": ["pass", "48.7107", "-75.8450"]
+            "args": ["1", "2", "3", "4"]
         }
     ]
 }
